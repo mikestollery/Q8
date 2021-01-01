@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Q8.1 One-dimensional model of U-235 decay
+Q8.1 A One-dimensional model of U-235 decay
 """
 
 from numpy import random
